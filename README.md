@@ -56,4 +56,4 @@ Contact jarvis two creator about any bug as well as look up a translator open so
 Andre week three Goal: Contact supkesh the Jarvis one creator to clarify the installation process and report bugs that I found. Find a translator open source 
 Alya:
 			
-			
+Canvas Activity version control			
