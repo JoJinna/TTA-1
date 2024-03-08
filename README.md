@@ -59,6 +59,9 @@ Alya:
 Week four Andres: Before Friday meeting
 Follow up to our back up plan and installed jarvis from digamabar repository. Installed all the required libraries and find out he doesnt have any instructions to do this. Therefore, we can work on a read.me to make it easier to installe for other people. In addition to this, I work on a small program to test the googletranslator librarie. It was a success, so I start working on our feature. Managed to completed it but unfortunatly I cant tested it as right now theres seem to be an error on my engine folder. 
 
+Week five Goals: Install all librarys and create are readme file with the installation instructions For Both . 
+Goal  Number two - Have the jarvis running online.
+Goal Number three fixing the egine code 
 
 
 
