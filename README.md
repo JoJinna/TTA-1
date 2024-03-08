@@ -59,6 +59,7 @@ Alya:
 Week four Andres: Before Friday meeting
 Follow up to our back up plan and installed jarvis from digamabar repository. Installed all the required libraries and find out he doesnt have any instructions to do this. Therefore, we can work on a read.me to make it easier to installe for other people. In addition to this, I work on a small program to test the googletranslator librarie. It was a success, so I start working on our feature. Managed to completed it but unfortunatly I cant tested it as right now theres seem to be an error on my engine folder. 
 
+Week 4 sprint: Jo  Before the sprint : We have discovered that the open source  youtube teacher I found has not finished showing how to fully automate the jarvis to go online and answer questions . Solution one : we can use the other github we found and try to integrate the other github open source to git the jarvis online. Solution two: I can ask fellow colleagues for some help making the open source  online  Solution three: Revise the code. I have reached out to the open source creator to see if he would allow us to add to his repository. Andres coded the function for google translate to translate our jarvis. I think our back up plan should be Marketplace language packets 
 
 
 
